@@ -1,3 +1,11 @@
+# Achilles
+
+The Achilles run cards are provided in folders for each experiment. 
+Version 0.3.0 of Achilles was used to produce the plots found in https://arxiv.org/abs/2508.19213 and
+can be obtained at https://github.com/AchillesGen/Achilles/releases/tag/v0.3.0.
+If you have any issues with generating the events, please leave an [issue](https://github.com/AchillesGen/Achilles/issues) in the Achilles repo  
+describing the problem you encountered and an author will provide support.
+
 # NUISANCE
 
 Comparisons to experimental data were carried out using the NUISANCE framework.
