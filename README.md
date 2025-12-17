@@ -50,3 +50,18 @@ T2K_CC0pinp_STV_XSec_1Ddpt_nu
 T2K_CC1pipNp_CH_XSec_1DdaT_nu
 T2K_CC1pipNp_CH_XSec_1DdpTT_nu
 T2K_CC1pipNp_CH_XSec_1DpN_nu
+
+# Citation Information
+If using this information in a publication, please cite:
+```
+@article{Isaacson:2025cnk,
+    author = "Isaacson, Joshua and Jay, William and Lovato, Alessandro and Machado, Pedro and Nikolakopoulos, Alexis and Rocco, Noemi and Steinberg, Noah",
+    title = "{Single pion-production and pion propagation in Achilles}",
+    eprint = "2508.19213",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "FERMILAB-PUB-25-0473-T, MSUHEP-25-018",
+    month = "8",
+    year = "2025"
+}
+```
