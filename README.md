@@ -2,7 +2,7 @@
 
 Comparisons to experimental data were carried out using the NUISANCE framework.
 NUISANCE is publicly available at https://github.com/NUISANCEMC/nuisance.
-The python module pyNUISANCE offers a convenient interface for plotting results.
+The python module pyNUISANCE (available in [NUISANCE3](https://github.com/NUISANCEMC/nuisance3)) offers a convenient interface for plotting results.
 Usage of pyNUISANCE is illustrated, e.g., in tutorials (https://github.com/NUISANCEMC/notebooks/blob/main/NUISANCE3TutorialDec24.ipynb).
 Experimental samples available in NUISANCE are listed at https://nuisance.hepforge.org/nuisancesamples.html.
 
