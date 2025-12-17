@@ -1,2 +1,44 @@
-# arXiv-2508.19213
-Run cards and NUISANCE tags supporting the paper https://arxiv.org/abs/2508.19213.
+# NUISANCE
+
+Comparisons to experimental data were carried out using the NUISANCE framework.
+NUISANCE is publicly available at https://github.com/NUISANCEMC/nuisance.
+The python module pyNUISANCE offers a convenient interface for plotting results.
+Usage of pyNUISANCE is illustrated, e.g., in tutorials (https://github.com/NUISANCEMC/notebooks/blob/main/NUISANCE3TutorialDec24.ipynb).
+Experimental samples available in NUISANCE are listed at https://nuisance.hepforge.org/nuisancesamples.html.
+
+# Experimental samples
+
+The following experimental samples were considered in https://arxiv.org/abs/2508.19213.
+
+MINERvA_CC0pinp_STV_XSec_1Ddalphat_nu
+MINERvA_CC0pinp_STV_XSec_1Ddphit_nu
+MINERvA_CC0pinp_STV_XSec_1Ddpt_nu
+MINERvA_CC0pinp_STV_XSec_1Dpmu_nu
+MINERvA_CC0pinp_STV_XSec_1Dpnreco_nu
+MINERvA_CC0pinp_STV_XSec_1Dpprot_nu
+MINERvA_CC0pinp_STV_XSec_1Dthmu_nu
+MINERvA_CC0pinp_STV_XSec_1Dthprot_nu
+MicroBooNE_CC1Mu1p_XSec_1DDeltaAlphaT_nu
+MicroBooNE_CC1Mu1p_XSec_1DDeltaPhiT_nu
+MicroBooNE_CC1Mu1p_XSec_1DDeltaPn_nu
+MicroBooNE_CC1Mu1p_XSec_1DDeltaPT_nu
+MicroBooNE_CC1Mu1p_XSec_1DDeltaPtx_nu
+MicroBooNE_CC1Mu1p_XSec_1DDeltaPty_nu
+MicroBooNE_CC1Mu1p_XSec_1DECal_nu
+MicroBooNE_CC1Mu1p_XSec_1DMuonCosTheta_nu
+MicroBooNE_CC1Mu1p_XSec_1DMuonMomentum_nu
+MicroBooNE_CC1Mu1p_XSec_1DProtonCosTheta_nu
+MicroBooNE_CC1Mu2p_XSec_1DDeltaPT_nu
+MicroBooNE_CC1Mu2p_XSec_1DOpening_Angle_Mu_Both_nu
+MicroBooNE_CC1Mu2p_XSec_1DOpening_Angle_Protons_Lab_nu
+MicroBooNE_CC1MuNp_XSec_1Dcosmu_nu
+MicroBooNE_CC1MuNp_XSec_1Dcosp_nu
+MicroBooNE_CC1MuNp_XSec_1DPmu_nu
+MicroBooNE_CC1MuNp_XSec_1DPp_nu
+MicroBooNE_CC1MuNp_XSec_1Dthetamup_nu
+T2K_CC0pinp_STV_XSec_1Ddat_nu
+T2K_CC0pinp_STV_XSec_1Ddphit_nu
+T2K_CC0pinp_STV_XSec_1Ddpt_nu
+T2K_CC1pipNp_CH_XSec_1DdaT_nu
+T2K_CC1pipNp_CH_XSec_1DdpTT_nu
+T2K_CC1pipNp_CH_XSec_1DpN_nu
